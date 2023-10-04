@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const httpStatus = require('http-status-codes');
 
-const port = 3000;
+const port = 3001;
 const assetsDirectory = 'assets'; // CSS files will be loaded from here
 
 const server = http.createServer((request, response) => {
