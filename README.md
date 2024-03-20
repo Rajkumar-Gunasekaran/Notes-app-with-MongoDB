@@ -4,7 +4,7 @@ actions :
   - Create new note
   - Delete note
 
-Dependencies :
+ Dependencies :
   - Express.js
   - node.js
   - mongoose
